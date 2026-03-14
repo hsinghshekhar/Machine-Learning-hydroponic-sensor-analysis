@@ -229,4 +229,4 @@ print(f"\nERM:         theta0={th0:.4f}  theta1={th1:.4f}  ||theta||^2={th0**2+t
 print(f"Ridge(0.5):  theta0={th0_r:.4f}  theta1={th1_r:.4f}  ||theta||^2={th0_r**2+th1_r**2:.4f}")
 print(f"Lasso(0.5):  theta0={th0_l:.4f}  theta1={th1_l:.4f}  ||theta||^2={th0_l**2+th1_l**2:.6f}")
 
-print("\n✅ Complete ML Pipeline Done! Check /results folder for all figures.")
+print("\n Complete ML Pipeline Done! Check /results folder for all figures.")
